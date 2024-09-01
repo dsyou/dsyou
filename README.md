@@ -1,9 +1,10 @@
 ## Hi there 👋
-
-<!--
-**dsyou/dsyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Domain Driven Desing - in conjuction with BDD, CQRS, EDA and Hexagonal architecture.
+- 👀 I’m interested in Java, Spring, coding challenges, Angular
+- 💞️ I’m looking to complete one of my N projects created in github
+- 📫 How to reach me: https://www.linkedin.com/in/dawidjanik/
+  
+<!-- 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
